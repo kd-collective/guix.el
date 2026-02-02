@@ -1,5 +1,7 @@
 -*- mode: org -*-
 
+*Important*: development moved to [[https://codeberg.org/guix/emacs-guix]].
+
 * About
 
 =Emacs-Guix= (aka =guix.el=) provides various features and tools
